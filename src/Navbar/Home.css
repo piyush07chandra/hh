@@ -1,0 +1,25 @@
+
+.text{
+    text-align: left;
+    padding: 4rem;
+    background-image: url('piyush.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height:800px; 
+}
+.intro{
+    color: rgb(255, 255, 255);
+    
+  display: inline-block;
+  margin: 0 0.5rem;
+
+  animation: bounce; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 2s; /* don't forget to set a duration! */
+
+}
+
+
+
+
+

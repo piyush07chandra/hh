@@ -1,0 +1,39 @@
+.footer {
+  background-color: black;
+  margin-top: 1%;
+  margin-left: 1%;
+  margin-right: 1%;
+  padding-bottom: 1%;
+  
+}
+.insta{
+    margin-left: 4%;
+  height: 15%;
+  width: 15%;
+  margin-right: 4%;
+}
+.facebook{
+  height: 13%;
+  width: 14%;
+  margin-right: 2%;
+}
+.linkedin{
+  height: 11%;
+  width: 11%;
+  margin-right: 3%;
+}
+.youtube{
+  height: 40%;
+  width: 20%;
+  margin-right: 3%;
+}
+.whatsapp{
+  height: 15%;
+  width: 15%;
+  margin-left:3%;
+}
+.contactme{
+    color: aliceblue;
+    text-align: center;
+   
+}
